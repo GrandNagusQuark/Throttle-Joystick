@@ -11,7 +11,7 @@
 Joystick_ Joystick(0x06, 0x04,
                    1, 0,                 // Button Count, Hat Switch Count
                    false, false, false,   // No Axis
-                   true, true, true,   // Rx, Ry and no Rz
+                   true, true, true,   // Rx, Ry and Rz
                    false, true,          // No Rudder and throttle
                    false, false, false);  // No accelerator, brake or steering
 
